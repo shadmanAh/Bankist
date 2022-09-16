@@ -12,3 +12,8 @@ password: 2222
 
 username: js
 password: 1111
+
+## Used Technologies
+- HTML5
+- CSS 3
+- JavaScript
