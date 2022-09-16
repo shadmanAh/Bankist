@@ -8,9 +8,11 @@ This is a simple app where you can transfer money or get a loan and view account
 I defined two users for this app, you can enter their accounts with the following username and password:
 
 username: jd
+
 password: 2222
 
 username: js
+
 password: 1111
 
 ## Used Technologies
